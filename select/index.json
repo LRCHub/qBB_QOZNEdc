@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Most Girls (Official Video)",
+  "base_artist": "Hailee Steinfeld",
+  "createdAt": "2026-02-13T10:38:59.871525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/01_Most_Girls_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/02_Most_Girls_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/03_Most_Girls_P!nk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/04_Most_Girls_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "Favored Nations",
+      "has_synced": true,
+      "path": "select/05_Most_Girls_Favored_Nations.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Most Girls (Acoustic)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/06_Most_Girls_(Acoustic)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "Pink",
+      "has_synced": true,
+      "path": "select/07_Most_Girls_Pink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Most Girls",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/08_Most_Girls_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Most Girls (Promo Only Clean Edit)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/09_Most_Girls_(Promo_Only_Clean_Edit)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Most Girls - X Men Vocal Mix",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/10_Most_Girls_-_X_Men_Vocal_Mix_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Most Girls (X-Men vocal mix)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/11_Most_Girls_(X-Men_vocal_mix)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Most Girls (X-Men Vocal Mix)",
+      "artist": "Pink",
+      "has_synced": true,
+      "path": "select/12_Most_Girls_(X-Men_Vocal_Mix)_Pink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Most Girls",
+      "artist": "Hailee Steinfeld",
+      "has_synced": false,
+      "path": "select/pl_01_Most_Girls_Hailee_Steinfeld.txt"
+    }
+  ]
+}
